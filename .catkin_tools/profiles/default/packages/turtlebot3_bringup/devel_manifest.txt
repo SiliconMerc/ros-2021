@@ -1,0 +1,6 @@
+turtlebot3/turtlebot3_bringup
+/home/captain/git/ros-2021/devel/.private/turtlebot3_bringup/cmake.lock /home/captain/git/ros-2021/devel/./cmake.lock
+/home/captain/git/ros-2021/devel/.private/turtlebot3_bringup/lib/pkgconfig/turtlebot3_bringup.pc /home/captain/git/ros-2021/devel/lib/pkgconfig/turtlebot3_bringup.pc
+/home/captain/git/ros-2021/devel/.private/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics /home/captain/git/ros-2021/devel/lib/turtlebot3_bringup/turtlebot3_diagnostics
+/home/captain/git/ros-2021/devel/.private/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake /home/captain/git/ros-2021/devel/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+/home/captain/git/ros-2021/devel/.private/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake /home/captain/git/ros-2021/devel/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake

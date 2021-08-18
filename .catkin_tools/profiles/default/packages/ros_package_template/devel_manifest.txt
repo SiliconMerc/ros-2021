@@ -1,0 +1,7 @@
+ros_best_practices/ros_package_template
+/home/captain/git/ros-2021/devel/.private/ros_package_template/cmake.lock /home/captain/git/ros-2021/devel/./cmake.lock
+/home/captain/git/ros-2021/devel/.private/ros_package_template/lib/libros_package_template_core.so /home/captain/git/ros-2021/devel/lib/libros_package_template_core.so
+/home/captain/git/ros-2021/devel/.private/ros_package_template/lib/pkgconfig/ros_package_template.pc /home/captain/git/ros-2021/devel/lib/pkgconfig/ros_package_template.pc
+/home/captain/git/ros-2021/devel/.private/ros_package_template/lib/ros_package_template/ros_package_template /home/captain/git/ros-2021/devel/lib/ros_package_template/ros_package_template
+/home/captain/git/ros-2021/devel/.private/ros_package_template/share/ros_package_template/cmake/ros_package_templateConfig.cmake /home/captain/git/ros-2021/devel/share/ros_package_template/cmake/ros_package_templateConfig.cmake
+/home/captain/git/ros-2021/devel/.private/ros_package_template/share/ros_package_template/cmake/ros_package_templateConfig-version.cmake /home/captain/git/ros-2021/devel/share/ros_package_template/cmake/ros_package_templateConfig-version.cmake
